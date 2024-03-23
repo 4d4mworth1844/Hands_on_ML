@@ -1,7 +1,7 @@
-# Hands on Machine learning
+# Hands on Machine learning :school:
 Welcome to the Hands-On Machine Learning Implementation project! This repository is dedicated to learning machine learning concepts by implementing them from scratch and comparing the results with the practices outlined in the renowned book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.
 
-## Overview
+## Overview 
 This project serves as a practical learning resource for individuals interested in delving deep into machine learning algorithms and techniques. By implementing algorithms from scratch, you'll gain a comprehensive understanding of their underlying principles, enabling you to grasp the nuances and intricacies that often remain obscured in high-level libraries.
 
 ## Key Features:
