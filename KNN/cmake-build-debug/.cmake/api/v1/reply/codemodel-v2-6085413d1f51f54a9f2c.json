@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SuperTest_1_0_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SuperTest_1_0_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SuperTest_1_0_3-Debug-38f2e7e3a85fad3b8d4f.json",
+					"name" : "SuperTest_1_0_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/academy/Universe/CTDLGT_DSA/NEW/Assignment/ENDGAME/SuperTest_1.0.3/SuperTest_1.0.3/cmake-build-debug",
+		"source" : "D:/academy/Universe/CTDLGT_DSA/NEW/Assignment/ENDGAME/SuperTest_1.0.3/SuperTest_1.0.3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
